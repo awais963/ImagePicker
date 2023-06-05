@@ -57,14 +57,10 @@ Almost 90% of the app that I have developed has an Image upload feature. Along w
 	```
 
     ```groovy
-   implementation 'com.github.dhaval2404:imagepicker:2.1'
+   implementation 'com.github.mughal963:imagepicker:2.2'
     ```
 
-   **If you are yet to Migrate on AndroidX, Use support build artifact:**
-   ```groovy
-   implementation 'com.github.dhaval2404:imagepicker-support:1.7.1'
-    ```
-
+ 
 
 2. The ImagePicker configuration is created using the builder pattern.
 
@@ -299,6 +295,9 @@ Almost 90% of the app that I have developed has an Image upload feature. Along w
   * Sample - Android Kitkat 4.4+ (API 19)
 
 # ✔️Changelog
+	
+### Version: 2.2
+  * Added Android SDK 33+ support
 
 ### Version: 2.1
   * Added uzbekistan translation (Special Thanks to Khudoyshukur Juraev)
