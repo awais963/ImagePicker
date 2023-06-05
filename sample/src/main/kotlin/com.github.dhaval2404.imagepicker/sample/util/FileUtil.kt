@@ -1,10 +1,10 @@
-package com.github.dhaval2404.imagepicker.sample.util
+package com.github.matech.imagepicker.sample.util
 
 import android.content.Context
 import android.net.Uri
 import android.util.Log
-import com.github.dhaval2404.imagepicker.util.FileUriUtils
-import com.github.dhaval2404.imagepicker.util.FileUtil
+import com.github.matech.imagepicker.util.FileUriUtils
+import com.github.matech.imagepicker.util.FileUtil
 import java.io.File
 import java.text.SimpleDateFormat
 import java.util.Locale

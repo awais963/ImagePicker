@@ -1,4 +1,4 @@
-package com.github.dhaval2404.imagepicker.sample
+package com.github.matech.imagepicker.sample
 
 import android.os.Bundle
 import android.view.LayoutInflater

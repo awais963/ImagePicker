@@ -1,4 +1,4 @@
-package com.github.dhaval2404.imagepicker.sample
+package com.github.matech.imagepicker.sample
 
 import android.app.Activity
 import android.content.Intent
@@ -13,10 +13,10 @@ import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
-import com.github.dhaval2404.imagepicker.ImagePicker
-import com.github.dhaval2404.imagepicker.sample.util.FileUtil
-import com.github.dhaval2404.imagepicker.sample.util.IntentUtil
-import com.github.dhaval2404.imagepicker.util.IntentUtils
+import com.github.matech.imagepicker.ImagePicker
+import com.github.matech.imagepicker.sample.util.FileUtil
+import com.github.matech.imagepicker.sample.util.IntentUtil
+import com.github.matech.imagepicker.util.IntentUtils
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.content_camera_only.*
 import kotlinx.android.synthetic.main.content_gallery_only.*
